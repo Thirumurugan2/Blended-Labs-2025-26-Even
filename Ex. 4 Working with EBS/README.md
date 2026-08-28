@@ -2,7 +2,7 @@
 
 ## Author
 
-* **Name**: AAKIL AHAMED S
+* **Name**: THIRUMURUGAN R
 * **Register Number**: 212223220118
 
 ---
